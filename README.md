@@ -1,6 +1,6 @@
 # Nuxt 3 Minimal Starter
 
-We recommend to look at the [documentation](https://v3.nuxtjs.org).
+Small exmaple project how to setup Nuxt 3 with dedicated dataproviders and pinia as store library.
 
 ## Setup
 
@@ -25,5 +25,3 @@ Build the application for production:
 ```bash
 yarn build
 ```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
