@@ -1,6 +1,6 @@
 # Nuxt 3 Minimal Starter
 
-Small exmaple project how to setup Nuxt 3 with dedicated dataproviders and pinia as store library.
+Small example project how to setup Nuxt 3 with dedicated dataproviders and pinia as store library.
 
 ## Setup
 
